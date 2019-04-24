@@ -1,0 +1,7 @@
+.success-alert {
+  background-color: #008000;
+  color: #ffffff;
+  display: block;
+  line-height: 40px;
+  width: 100%;
+}
